@@ -3,10 +3,11 @@
 Welcome on my GitHub page !
 
 - ⚙️ Passionate about Automation, Control Engineering and Robotics
+- 🎓 Graduated BSc in Automation Engineering @ Politecnico di Milano (IT)
 - 🎓 Currently pursuing MSc in Automation & Control Engineering @ Politecnico di Milano (IT)
 - 🌍 Exchange student @ NTNU - Norwegian University of Science and Technology in Trondheim (NO)
 - 📫 How to reach me: [bazzanella.sofia@gmail.com](mailto:bazzanella.sofia@gmail.com)
-- ⚡ Fun fact: I've been skiing my whole life and I love foraging for mushrooms in the woods or crocheting in my free time!
+- ⚡ Fun fact: I love skiing
 - 📄 Know about my experiences: [My CV](https://1drv.ms/w/c/8fc26fbca6a23ce2/IQDCidkwSZWxTqsIfaGfuH8aAbGfcs9qXj59QDaWrnuEN1Q?e=zzljLA)
 
 ### Connect with me:
